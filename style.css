@@ -1,0 +1,12 @@
+nav a {
+	font-family: sans-serif;
+	text-decoration: none;
+	color: red;
+	padding: 5px;
+	margin: 10px;
+    text-align: center;
+    border: 12px solid #000;
+}
+body {
+
+}
